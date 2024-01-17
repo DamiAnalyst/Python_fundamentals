@@ -1,2 +1,2 @@
 # Python_fundamentals
-List of my python drills and exercises 
+This folder contains all the exercise I took while learning my python exercise
